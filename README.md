@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 **计算机老人，前端新人
 不定期更新[前端笔记](https://github.com/iera2yy/frontend-study).**
 
+**狂写毕设中**
